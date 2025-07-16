@@ -4,7 +4,7 @@ This project presents a detailed **data analysis of education statistics across 
 
 ## 📁 Files in This Repository
 
-- `Project2.ipynb` – Jupyter Notebook with full exploratory data analysis
+- `Project_Model.ipynb` – Jupyter Notebook with full exploratory data analysis
 - `Mydataset.csv` – Dataset containing education-related statistics
 - `README.md` – Project overview and usage guide
 
