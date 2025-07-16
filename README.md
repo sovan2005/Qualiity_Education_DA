@@ -35,6 +35,8 @@ The notebook answers **15 insightful questions**, such as:
 - `pandas`
 - `matplotlib`
 - `numpy`
+- `Seaborn`
+- `Scikit-learn`
 
 ## 🚀 How to Run the Project
 
